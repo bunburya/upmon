@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2021"
 description = "Simple command line UPower monitor"
 license = "MIT"
+authors = ["Alan Bunbury"]
+repository = "https://github.com/bunburya/upmon"
+keywords = ["power", "upower", "battery", "laptop"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 futures = "0.3.30"
